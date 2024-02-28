@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kotlin Music</string>
+    <string name="title_activity_main">Main</string>
+    <string name="albumcover">albumCover</string>
+    <string name="albumCover" />
+    <string name="pauseButton" />
+    <string name="playButton" />
+    <string name="musicTitle">TextView</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="hello_world">Hello World</string>
+    <string name="artistName" />
+    <string name="addToFavorite" />
+    <string name="use_the_search_bar_to_lookup_for_an_artist_discography">Use the search bar to lookup for an artist discography!</string>
+</resources>
