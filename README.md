@@ -10,13 +10,9 @@ Android SDK:
   - Target version: 34
   - Minimum version: 24
 
-Android Virtual Device (AVD)
-
-Development phase used Medium Phone API 34 / Android 14.0 ("UpsideDownCake") | x86_64
 
 ## Github Actions CI
 
-Continuous integration workflow has been added to the reposittory for building the project with Gradle.
-The CI is triggered when a push on `main` branch is made. It builds two apk, one in debug configuration and the other one for release.
+Continuous integration workflow has been added to the repository for building the project with Gradle.
+The CI is triggered when a push on `master` branch is made. It builds two apk, one in debug configuration and the other one for release.
 
-ESGI 4AL1-2023/2024
